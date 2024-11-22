@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179821695612",
+    "project_id": "jeleapps-5561a",
+    "storage_bucket": "jeleapps-5561a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179821695612:android:76432049d5385c01a1eff9",
+        "android_client_info": {
+          "package_name": "com.flutter_jeleapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMfWompT091veO4lypY46bX_TAch3qHtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
